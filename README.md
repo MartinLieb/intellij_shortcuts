@@ -2,6 +2,8 @@
 
 Run &rightarrow; Shift + F10
 
+Saves the code; ctrl + S
+
 ## Forkortelser 
 
 psvm &rightarrow; Main metoden
